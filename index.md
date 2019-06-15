@@ -86,7 +86,7 @@ nav: index
 
 {% include keynote-speakers.html %}
 
-{% comment %}{% include schedule.html %}{% endcomment %}
+{% include schedule.html %}
 
 {% include sponsors.html %}
 
